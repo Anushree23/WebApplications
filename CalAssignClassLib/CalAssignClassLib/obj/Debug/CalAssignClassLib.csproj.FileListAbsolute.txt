@@ -1,0 +1,6 @@
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\bin\Debug\CalAssignClassLib.dll
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\bin\Debug\CalAssignClassLib.pdb
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\obj\Debug\CalAssignClassLib.csprojAssemblyReference.cache
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\obj\Debug\CalAssignClassLib.csproj.CoreCompileInputs.cache
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\obj\Debug\CalAssignClassLib.dll
+D:\zensar\ConsoleDemo\CalAssignClassLib\CalAssignClassLib\obj\Debug\CalAssignClassLib.pdb

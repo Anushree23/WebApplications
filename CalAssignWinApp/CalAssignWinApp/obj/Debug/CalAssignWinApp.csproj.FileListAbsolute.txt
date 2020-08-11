@@ -1,0 +1,13 @@
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\bin\Debug\CalAssignWinApp.exe.config
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\bin\Debug\CalAssignWinApp.exe
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\bin\Debug\CalAssignWinApp.pdb
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\bin\Debug\CalAssignClassLib.dll
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\bin\Debug\CalAssignClassLib.pdb
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.csprojAssemblyReference.cache
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.Form1.resources
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.Properties.Resources.resources
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.csproj.GenerateResource.cache
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.csproj.CoreCompileInputs.cache
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.csproj.CopyComplete
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.exe
+D:\zensar\webApplication\CalAssignWinApp\CalAssignWinApp\obj\Debug\CalAssignWinApp.pdb
